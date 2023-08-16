@@ -1,0 +1,6 @@
+development:
+  - http://example.com/webhooks
+test:
+  - http://test.example.com/webhooks
+production:
+  - http://api.example.com/webhooks

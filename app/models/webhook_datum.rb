@@ -1,0 +1,2 @@
+class WebhookDatum < ApplicationRecord
+end
